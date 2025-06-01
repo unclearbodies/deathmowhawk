@@ -1,0 +1,4 @@
+@import url('https://dl.dafont.com/dl/?f=death_mohawk');
+::placeholder, body, button, input, select, textarea {
+    font-family: "Pixel";
+}
