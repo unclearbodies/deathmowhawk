@@ -1,4 +1,4 @@
-@import url(https://Timtaran.github.io/minecraft.ttf);
+@import url(https://github.com/unclearbodies/deathmowhawk/raw/refs/heads/main/DeathMohawk_PERSONAL_USE_ONLY.otf);
 :root {
 --Chat-Font-Used: 'Minecraft Rus Regular', Rus ;
 --Chat-Font-Size: 8px;
