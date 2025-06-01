@@ -1,6 +1,6 @@
 @import url(https://github.com/unclearbodies/deathmowhawk/blob/main/Spray%20Break.ttf);
 :root {
---Chat-Font-Used: 'DeathMohawk_PERSONAL_USE_ONLY', Rus ;
+--Chat-Font-Used: 'Spray Break', Rus ;
 --Chat-Font-Size: 8px;
 }
 :not([class="hljs"]):not(code){
