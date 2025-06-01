@@ -1,4 +1,4 @@
-@import url(https://github.com/unclearbodies/deathmowhawk/raw/refs/heads/main/DeathMohawk_PERSONAL_USE_ONLY.otf);
+@import url(https://github.com/unclearbodies/deathmowhawk/blob/main/Spray%20Break.ttf);
 :root {
 --Chat-Font-Used: 'DeathMohawk_PERSONAL_USE_ONLY', Rus ;
 --Chat-Font-Size: 8px;
